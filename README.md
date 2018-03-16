@@ -8,3 +8,6 @@ Picky is a simple macOS color picker. As simple as that.
 
 ## How to use it?
 Just download the repo and run `Picky.app`
+
+## Fun Fact!
+Picky's icon is one of the shaded triangles of my [gouraud shader](https://github.com/pmkary/gouraud-shader) implementation :D
